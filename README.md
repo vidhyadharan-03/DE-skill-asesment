@@ -1,4 +1,4 @@
-# DE-skill-asesment
+# DE-skill-assesment
 # EXPERIMENT- DESIGN AND SIMULATE 6 BIT PARITY GENERATOR USING VERILOG .
 
 ## Aim : 
